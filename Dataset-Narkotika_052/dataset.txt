@@ -1,0 +1,2 @@
+Pengambilan Datasets diambil dari putusan pengadilan dari website Direktori Putusan Mahkamah Agung RI (https://putusan3.mahkamahagung.go.id/direktori.html) 
+dengan PN Banjarmasin sebanyak 50 buah pdf dengan overview berbentuk *.xlsx
